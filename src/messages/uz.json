@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "title": "263-sonli umumiy o'rta ta'lim maktabi | Toshkent, Mirobod",
+    "description": "263-sonli umumiy o'rta ta'lim maktabi — Toshkent, Mirobod tumani. 2003 yildan buyon sifatli ta'lim, zamonaviy fanlar va g'amxo'r pedagoglar."
+  },
+  "nav": {
+    "about": "Maktab haqida",
+    "subjects": "Fanlar",
+    "classes": "Sinflar",
+    "admission": "Qabul",
+    "leadership": "Rahbariyat",
+    "activities": "To'garaklar",
+    "testimonials": "Fikrlar",
+    "location": "Joylashuv",
+    "contact": "Bog'lanish"
+  },
+  "hero": {
+    "title": "263-sonli umumiy o'rta ta'lim maktabi",
+    "subtitle": "Toshkent, Mirobod tumani — 2003 yildan buyon sifatli ta'lim",
+    "ctaAdmission": "Qabul haqida",
+    "ctaContact": "Bog'lanish",
+    "scrollDown": "Pastga scroll qiling"
+  },
+  "about": {
+    "title": "Maktab haqida",
+    "subtitle": "An'analar va zamonaviylik uyg'unligi",
+    "description": "263-sonli umumiy o'rta ta'lim maktabi 2003 yilda tashkil etilgan va bugungi kunda Mirobod tumani o'quvchilari uchun ishonchli ta'lim markaziga aylangan. Biz har bir o'quvchining intellektual va shaxsiy rivojlanishiga g'amxo'rlik qilamiz.",
+    "foundedLabel": "Tashkil etilgan yil",
+    "foundedValue": "2003",
+    "statusLabel": "Maqom",
+    "statusValue": "Davlat maktabi",
+    "founderLabel": "Ta'sischi",
+    "founderValue": "Toshkent shahar hokimligi",
+    "stats": {
+      "classes": "Sinflar (1–11)",
+      "rating": "Yandex reytingi",
+      "reviews": "Ota-ona sharhlari"
+    }
+  },
+  "subjects": {
+    "title": "Ta'lim yo'nalishi",
+    "subtitle": "Keng qamrovli va zamonaviy fanlar dasturi",
+    "items": {
+      "native": "Ona tili",
+      "literature": "Adabiyot",
+      "math": "Matematika",
+      "physics": "Fizika",
+      "chemistry": "Kimyo",
+      "biology": "Biologiya",
+      "geography": "Geografiya",
+      "history": "Tarix",
+      "informatics": "Informatika",
+      "english": "Ingliz tili",
+      "russian": "Rus tili",
+      "pe": "Jismoniy tarbiya"
+    }
+  },
+  "classes": {
+    "title": "Sinflar",
+    "subtitle": "Har bir bosqich — alohida e'tibor va yondashuv",
+    "primary": {
+      "title": "Boshlang'ich (1–4)",
+      "description": "Asosiy bilimlar, o'qish va yozish ko'nikmalari, ijodiy faoliyat va axloqiy tarbiya."
+    },
+    "middle": {
+      "title": "Tayanch (5–9)",
+      "description": "Chuqurlashtirilgan fanlar, fan to'garaklari va o'quvchi mustaqilligini shakllantirish."
+    },
+    "upper": {
+      "title": "Yuqori (10–11)",
+      "description": "Oliy ta'limga tayyorgarlik, imtihonlarga tayyorlanish va kasb yo'nalishini tanlash."
+    }
+  },
+  "admission": {
+    "title": "Qabul tartibi",
+    "subtitle": "Maktabga qabul qilish bosqichlari",
+    "steps": {
+      "step1": {
+        "title": "Kerakli hujjatlar",
+        "description": "Quyidagi hujjatlarni tayyorlang va maktabga taqdim eting."
+      },
+      "step2": {
+        "title": "Yosh talabi",
+        "description": "O'quvchi yoshi sinf darajasiga mos bo'lishi kerak."
+      },
+      "step3": {
+        "title": "Murojaat tartibi",
+        "description": "Qabul bo'limiga murojaat qiling va ro'yxatdan o'ting."
+      }
+    },
+    "documents": {
+      "birth": "Tug'ilganlik guvohnomasi nusxasi",
+      "passport": "Ota-ona pasporti nusxasi",
+      "photo": "3x4 o'lchamdagi fotosurat (4 dona)",
+      "medical": "086-sonli tibbiy ma'lumotnoma",
+      "school": "Oldingi maktabdan ma'lumotnoma (o'tkazilayotgan bo'lsa)"
+    },
+    "ageNote": "1-sinfga qabul — 6–7 yosh, boshqa sinflar — tegishli yosh chegarasiga muvofiq.",
+    "processNote": "Qabul bo'limi: Dushanba–Shanba, 09:00–17:00. Oldindan telefon orqali vaqt belgilashingiz mumkin."
+  },
+  "leadership": {
+    "title": "Rahbariyat",
+    "subtitle": "Tajribali va mas'uliyatli jamoa",
+    "director": {
+      "name": "Turayeva Djamilya Xudjamqulovna",
+      "role": "Maktab direktori",
+      "bio": "Ko'p yillik pedagogik tajribaga ega, maktab rivojlanishi va ta'lim sifati yuqori darajada saqlanishini ta'minlaydi."
+    }
+  },
+  "activities": {
+    "title": "To'garaklar va tadbirlar",
+    "subtitle": "Sport, fan va madaniy hayot",
+    "items": {
+      "sport": "Sport to'garaklari",
+      "science": "Fan to'garaklari",
+      "art": "San'at va musiqa",
+      "olympiad": "Olimpiadalar",
+      "holiday": "Bayram tadbirlari",
+      "community": "Ijtimoiy loyihalar"
+    }
+  },
+  "testimonials": {
+    "title": "Fikrlar",
+    "subtitle": "Ota-onalar va o'quvchilar fikri",
+    "ratingLabel": "Yandex reytingi",
+    "reviewsCount": "130+ baho",
+    "items": {
+      "t1": {
+        "name": "Nodira Karimova",
+        "role": "Ota-ona",
+        "text": "Farzandim bu maktabda o'qiydi. Pedagoglar g'amxo'r, darslar sifatli. Maktab muhiti juda iliq va xavfsiz."
+      },
+      "t2": {
+        "name": "Aziz Rahimov",
+        "role": "O'quvchi, 9-sinf",
+        "text": "Fan to'garaklari va sport mashg'ulotlari juda yoqadi. O'qituvchilar har doim yordam berishga tayyor."
+      },
+      "t3": {
+        "name": "Elena Petrova",
+        "role": "Ota-ona",
+        "text": "Bolam ikki tilida o'qiyapti. Maktab zamonaviy uslubda ta'lim beradi, rahbariyat har bir murojaatga javob beradi."
+      }
+    }
+  },
+  "location": {
+    "title": "Joylashuv",
+    "subtitle": "Bizni oson topishingiz mumkin",
+    "address": "Toshkent sh., Mirobod tumani, Qo'yliq-3 dahasi, 33A",
+    "landmarksTitle": "Yaqin atrofdagi mo'ljallar",
+    "landmarks": {
+      "school31": "31-sonli maktab",
+      "makro": "Makro supermarket",
+      "metro": "Matonat metro bekati"
+    },
+    "transport": "Matonat metro bekati va avtobus bekatlari yaqin. Avtomobil uchun qulay kirish yo'li mavjud."
+  },
+  "contact": {
+    "title": "Bog'lanish",
+    "subtitle": "Savollaringiz bo'lsa, biz bilan bog'laning",
+    "phone": "Telefon",
+    "email": "Email",
+    "hours": "Ish vaqti",
+    "hoursValue": "Dushanba–Shanba: 08:00–18:00",
+    "hoursSunday": "Yakshanba: dam olish kuni",
+    "form": {
+      "name": "Ismingiz",
+      "phone": "Telefon raqamingiz",
+      "message": "Xabaringiz",
+      "submit": "Yuborish",
+      "success": "Xabaringiz qabul qilindi. Tez orada bog'lanamiz!"
+    }
+  },
+  "footer": {
+    "description": "263-sonli umumiy o'rta ta'lim maktabi — sifatli ta'lim va tarbiya markazi.",
+    "address": "Toshkent sh., Mirobod tumani, Qo'yliq-3 dahasi, 33A",
+    "hours": "Dush–Shan: 08:00–18:00",
+    "copyright": "© {year} 263-sonli umumiy o'rta ta'lim maktabi. Barcha huquqlar himoyalangan."
+  },
+  "loading": {
+    "text": "Yuklanmoqda..."
+  }
+}
