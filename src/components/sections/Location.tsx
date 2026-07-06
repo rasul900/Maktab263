@@ -12,7 +12,7 @@ const landmarkKeys = ["school31", "makro", "metro"] as const;
 const landmarkIcons = [Building, ShoppingBag, TrainFront];
 
 const MAP_EMBED =
-  "https://www.google.com/maps?q=Qo'yliq-3+daxasi+33A+Mirobod+Toshkent&hl=uz&z=16&output=embed";
+  "https://www.google.com/maps?q=7825%2B6H6%2C+Tashkent%2C+Uzbekistan&hl=uz&z=16&output=embed";
 
 export default function Location() {
   const t = useTranslations("location");
