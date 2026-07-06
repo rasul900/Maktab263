@@ -1,10 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
-import { IMAGES } from "@/lib/images";
+import { GraduationCap } from "lucide-react";
 
 export default function LoadingScreen() {
   const t = useTranslations("loading");
@@ -75,14 +74,11 @@ export default function LoadingScreen() {
           }}
           className="relative mt-2 flex h-28 w-28 items-center justify-center overflow-hidden rounded-3xl border border-white/20 bg-white/10 backdrop-blur-xl shadow-[0_0_60px_rgba(212,175,55,0.35)]"
         >
-          <Image
-            src={IMAGES.schoolLogo}
-            alt="263-MTM"
-            fill
-            priority
-            className="object-cover"
-          />
-
+          <GraduationCap
+              size={24}
+              strokeWidth={1.75}
+             
+              />
           {/* Shine */}
           <motion.div
             animate={{
